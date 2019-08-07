@@ -1,6 +1,1 @@
 "# CodeYourOwnCryptoCurrencyOnEthereum" 
-"# MasteringBitCoinBook" 
-"# SDAJAVAStudies" 
-"# PythonStudies" 
-"# CStudies" 
-"# SDAJAVAStudies" 
